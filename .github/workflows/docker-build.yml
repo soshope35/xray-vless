@@ -25,5 +25,5 @@ jobs:
         with:
           context: .
           push: true
-          tags: soshope/xray-vless:latest
+          tags: soshope35/xray-vless:latest
           platforms: linux/amd64,linux/arm64
