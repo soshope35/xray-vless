@@ -1,1 +1,1 @@
-# xray-vless
+# Xray proxy Docker image
